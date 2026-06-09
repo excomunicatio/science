@@ -2,7 +2,6 @@
 
 # Адаптивный гибридный метод балансировки нагрузки в распределённых объектных хранилищах
 
-**Adaptive hybrid load balancing method in distributed object storage systems**
 
 ---
 
